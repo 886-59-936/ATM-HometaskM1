@@ -1,0 +1,6 @@
+*.db
+*.class
+*.log
+target/
+bin/
+etc/
